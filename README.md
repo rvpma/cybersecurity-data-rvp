@@ -1,2 +1,3 @@
 # cybersecurity-data-rvp
 Este repositório documenta minha jornada em Segurança Cibernética, desde os fundamentos (Certificação Google Cybersecurity) até o desenvolvimento de habilidades em análise, Linux e ética profissional. Busco oportunidades para aplicar e expandir meu conhecimento na proteção de dados e investigação de incidentes.
+Estou numa jornada de aprendizado em Segurança Cibernética (Certificação Google), trago uma base sólida em Data Science, com conhecimento em modelagem preditiva e análise estatística,machine learning, buscando aplicar essas habilidades para enfrentar os desafios da segurança cibernética na área de dados.
